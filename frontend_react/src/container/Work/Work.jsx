@@ -1,6 +1,7 @@
 import React from 'react'
 
-import './Work.scss'
+import './Work.scss';
+
 const Work = () => {
     return (
     <div>Work</div>
